@@ -2,7 +2,6 @@ package uz.supremeapp.fcm;
 
 import android.app.Activity;
 import android.os.Bundle;
-
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.FirebaseApp;
