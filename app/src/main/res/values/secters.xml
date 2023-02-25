@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="google_play_services_version">12451000</integer>
+    <string name="firebase_database_url" translatable="false">https://mydatabase-a9319-default-rtdb.firebaseio.com</string>
+    <string name="project_id" translatable="false">mydatabase-a9319</string>
+    <string name="google_app_id" translatable="false">1:660411016292:android:d01acc30858f0d74cb2b71</string>
+    <string name="google_api_key" translatable="false">AIzaSyDqw6HlrCQLQbEVXvId8GmnWQ4yhXNuFJk</string>
+    <string name="google_storage_bucket" translatable="false">mydatabase-a9319.appspot.com</string>
+</resources>
